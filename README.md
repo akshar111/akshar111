@@ -1,4 +1,4 @@
-# Hi, I'm Akshar Patel
+# Hi, I'm Akshar Patel.
 
 Software Engineer with experience in Salesforce development, full-stack applications, and AI/ML-driven solutions.
 
