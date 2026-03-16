@@ -18,4 +18,4 @@ Python • JavaScript • TypeScript • Apex • React • Next.js • FastAPI 
 
 ---
 
-Thanks for visiting my profile
+Thanks for visiting my profile.
